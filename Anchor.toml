@@ -1,1 +1,10 @@
+[programs.localnet]
+structura_program = "STuraYourProgramIDHere00000000000000000000000000"
 
+[registry]
+url = "https://anchor.projectserum.com"
+
+[scripts]
+initialize_project = "ts-node scripts/initialize_project.ts"
+update_milestone = "ts-node scripts/update_milestone.ts"
+distribute_rewards = "ts-node scripts/distribute_rewards.ts"
