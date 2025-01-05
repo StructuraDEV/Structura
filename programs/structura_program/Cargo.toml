@@ -1,1 +1,11 @@
+[package]
+name = "structura_program"
+version = "0.1.0"
+edition = "2021"
 
+[dependencies]
+anchor-lang = "0.27.0"
+
+[lib]
+crate-type = ["cdylib", "lib"]
+name = "structura_program"
