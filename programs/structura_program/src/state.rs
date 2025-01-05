@@ -8,8 +8,8 @@ pub struct ProjectAccount {
 }
 
 impl ProjectAccount {
-    pub const LEN: usize = 8  // Discriminator
-        + 32                  // name (up to 32 bytes in this example)
-        + 8                   // budget (u64)
-        + 1;                  // milestones_completed (u8)
+    pub const LEN: usize = 8 // Discriminator
+        + 32                // name
+        + 8                 // budget
+        + 1;                // milestones_completed
 }
