@@ -1,1 +1,12 @@
+# Node artifacts
+node_modules/
+package-lock.json
+yarn.lock
 
+# Rust artifacts
+target/
+**/target/
+**/Cargo.lock
+
+# Anchor local configs
+.anchor/
