@@ -5,7 +5,9 @@
 
 ### Socials
 
-[@StructuraCore](https://x.com/StructutaCore)
+Twitter - [@StructuraCore](https://x.com/StructutaCore)
+
+GitHub - [@Structura](https://github.com/StructuraDEV/Structura)
 
 ---
 
