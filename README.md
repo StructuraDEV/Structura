@@ -3,6 +3,12 @@
 
 ---
 
+### Socials
+
+[@StructuraCore](https://x.com/StructutaCore)
+
+---
+
 ## Overview  
 **Structura** is a decentralized platform that leverages cutting-edge AI and blockchain technology to revolutionize construction planning, management, and accountability. By tokenizing resources and workflows, Structura empowers contractors, architects, and stakeholders to minimize waste, reduce delays, and ensure transparency in every project phase.
 
