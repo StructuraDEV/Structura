@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="assets/structura_logo.png" alt="Logo" width="200">
+</p>
+
+
+
 # Structura - AI-Driven Construction Planning and Resource Tokenization  
 *Optimizing Construction Through AI and Blockchain Transparency*
 
