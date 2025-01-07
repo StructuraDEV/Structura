@@ -1,6 +1,8 @@
 # Structura - AI-Driven Construction Planning and Resource Tokenization  
 *Optimizing Construction Through AI and Blockchain Transparency*
 
+[My Story](https://www.nocsdegree.com/from-construction-to-coding-brian-cooney-tells-us-how-he-changed-career/amp/)
+
 ---
 
 ### Socials
