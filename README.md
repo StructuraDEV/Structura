@@ -13,7 +13,7 @@
 
 ### Socials
 
-Twitter - [@StructuraCore](https://x.com/StructutaCore)
+Twitter - [@StructuraCore](https://x.com/StructuraCore)
 
 GitHub - [@Structura](https://github.com/StructuraDEV/Structura)
 
